@@ -19,4 +19,4 @@ This Model is aimed to make a accurate prediction about whether it is "OUT" or "
 ### Conclusion : 
 The Model is detecting whether its 'OUT' or 'NOT OUT' from images the accuracy will improve after feeding more dataset to neural network.
 
-• Note : This is just Part-1 of Project 'DRS_Sytem_using _ML' to test the dataset so, used transformers to save the time will update next parts of the project in this repo.
+• Note : This is just Part-1 of Project 'DRS_Sytem_using _ML' just to test the dataset so, I used transformers to save the time will update next parts of the project in this repo stay tuned 👍.
