@@ -7,9 +7,12 @@ This Model is aimed to make a accurate prediction about whether it is "OUT" or "
 ### Details :
 #### Dependencies :
 • Supervision
-• Transformers (Model --> DETR)
+
+• Transformers (Model --> DETR_resnet_50)
+
 • Timm, torchvision
 
 #### Outputs :
 <img src='images/drs_lbw_1.jpg'>
+<img src='images/drs_lbw2.jpg'>
 
