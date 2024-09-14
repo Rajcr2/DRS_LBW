@@ -17,6 +17,6 @@ This Model is aimed to make a accurate prediction about whether it is "OUT" or "
 <img src='images/drs_lbw2.jpg'>
 
 ### Conclusion : 
-The Model is detecting whether its 'OUT' or 'NOT OUT' the accuracy will improve after passing more dataset to neural network.
+The Model is detecting whether its 'OUT' or 'NOT OUT' from images the accuracy will improve after feeding more dataset to neural network.
 
-Note : This is just Part-1 of DRS_Sytem_using _ML to test the dataset so, used transformers to save the time will update next parts of the project in this repo.
+• Note : This is just Part-1 of DRS_Sytem_using _ML to test the dataset so, used transformers to save the time will update next parts of the project in this repo.
